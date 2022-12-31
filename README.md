@@ -1,5 +1,4 @@
 ### Hello, I'm Mohamed 👋
-A former accountant who pivoted his career into tech. Quite fond of puzzels and chess and can say that problem solving is a passion of mine. I have a strong eye for details and always keen on learning new things.
 
 [<img src="https://img.shields.io/badge/Portfolio-24243e?logo=about.me" height="25"/>](https://www.codedmohamed.com)
 [<img src="https://img.shields.io/badge/Gmail-24243e?logo=gmail" height="25"/>](mailto:codedmohamed@gmail.com)
@@ -8,3 +7,7 @@ A former accountant who pivoted his career into tech. Quite fond of puzzels and 
 - 👨‍💻 Frontend Developer 💻
 
 - 🔥 From the land of pharaohs "Egypt" ⛅
+
+- ⚡ Fun Fact: In a relationship with `Boxing` `Coffee` `Pizza` 😜
+
+![My Skills](https://skillicons.dev/icons?i=html)
